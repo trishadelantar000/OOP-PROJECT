@@ -1,0 +1,33 @@
+======================================
+          RESIDENT INFORMATION
+======================================
+Name: Durant James Delantar
+Gender: Male
+Age: 14
+Address: Hawan Grande
+Contact: 09815418021
+Civil Status: Single
+Occupation:  Student
+
+======================================
+          RESIDENT INFORMATION
+======================================
+Name: Darrel Delantar
+Gender: Male
+Age: 17
+Address: Hawan Grande
+Contact: 09462028888
+Civil Status: Single
+Occupation:  Student
+
+======================================
+          RESIDENT INFORMATION
+======================================
+Name: Patricia Talan
+Gender: Female
+Age: 19
+Address: Gogon
+Contact: 0199288382
+Civil Status: Single
+Occupation:  Student
+
