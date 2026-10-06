@@ -1,29 +1,29 @@
 ======================================
           RESIDENT INFORMATION
 ======================================
-Name: Durant James Delantar
+Name: Superman
 Gender: Male
 Age: 14
 Address: Hawan Grande
-Contact: 09815418021
+Contact: 31313131
 Civil Status: Single
 Occupation:  Student
 
 ======================================
           RESIDENT INFORMATION
 ======================================
-Name: Darrel Delantar
+Name: Tom Holland
 Gender: Male
 Age: 17
 Address: Hawan Grande
-Contact: 09462028888
+Contact: 113313212
 Civil Status: Single
 Occupation:  Student
 
 ======================================
           RESIDENT INFORMATION
 ======================================
-Name: Patricia Talan
+Name: Dora The Explorer
 Gender: Female
 Age: 19
 Address: Gogon
